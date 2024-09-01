@@ -22,7 +22,7 @@ Los datos utilizados en este análisis incluyen el Índice de Bienestar Material
 **1.** Determinar si existe una correlación entre el Índice de Bienestar Material en los cantones de Costa Rica y la cantidad de droga decomisada en esa misma área geográfica. 
 
 **2.** Identificar los cantones con mayor Índice de Bienestar Material y cantidad de droga decomisada.
- 
+
 **3.** Desarrollar una representación visual de la relación existente entre el Índice de Bienestar Material y la cantidad de droga decomisada mediante la utilización de un SIG.
 
 ## Justificación
@@ -54,8 +54,27 @@ Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porq
 
 <p align=center> <img src="fig2.jpg" width=800> <p>
 
-**<p align=center> Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)** <p>
+**<p align=center> Figura 2. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)** <p>
 ## Conclusiones 
 Al comparar los mapas de 2018 y 2020, se puede observar que algunos patrones y relaciones entre la cantidad de droga decomisada y el índice de bienestar material se mantienen constantes en ciertos cantones. No obstante, también puede haber ligeras variaciones en algunas áreas, lo que sugiere que las condiciones y dinámicas socioeconómicas pueden haber cambiado debido a diversos factores, incluyendo la pandemia de COVID-19.
 
 
+
+## Referencias
+
+
+
+
+Atlas de Desarrollo Humano Cantonal 2022. (2023). Programa de las Naciones Unidas para el Desarrollo. <https://www.undp.org/es/costa-rica/publicaciones/atlas-de-desarrollo-humano-cantonal-2022>  
+
+
+ Brewer, C. (2016). DESIGNING BETTER MAPS: A GUIDE FOR GIS USERS, 2N D EDITION. ESRI press. <https://cartographicperspectives.org/index.php/journal/article/download/cp84-tickner/1473/7038> 
+
+
+Decomisos de Droga por Cantón y Distrito 2022. (2023). Instituto Costarricense sobre Drogas <https://www.icd.go.cr/portalicd/index.php/estad-drogadecomisada?view=article&id=326&catid=2>  
+
+IGN-RN Limite Cantonal. Escala 1:5000, 2024. 
+
+ Monmonier, M. (2018). How to lie with maps. University of Chicago Press.<https://books.google.com/books?hl=es&lr=&id=MwdRDwAAQBAJ&oi=fnd&pg=PP8&dq=How+to+lie+with+maps&ots=NvqML9Ha1b&sig=KQkEtGJEoMXw1xjoeG-yka7li_k> 
+
+UNODC, (2021), World Drug Report 2021 (United Nations publication, Sales No. E.21.XI.8) <https://www.unodc.org/unodc/en/data-and-analysis/wdr2021.html>
