@@ -59,12 +59,12 @@ Al comparar los mapas de 2018 y 2020, se puede observar que algunos patrones y r
 
 Atlas de Desarrollo Humano Cantonal 2022. (2023). Programa de las Naciones Unidas para el Desarrollo. 
 https://www.undp.org/es/costa-rica/publicaciones/atlas-de-desarrollo-humano-cantonal-2022  
- Brewer, C. (2016). DESIGNING BETTER MAPS: A GUIDE FOR GIS USERS, 2N D EDITION. ESRI press. 
- https://cartographicperspectives.org/index.php/journal/article/download/cp84-tickner/1473/7038 
+Brewer, C. (2016). DESIGNING BETTER MAPS: A GUIDE FOR GIS USERS, 2N D EDITION. ESRI press. 
+https://cartographicperspectives.org/index.php/journal/article/download/cp84-tickner/1473/7038 
 Decomisos de Droga por Cantón y Distrito 2022. (2023). Instituto Costarricense sobre Drogas
- https://www.icd.go.cr/portalicd/index.php/estad-drogadecomisada?view=article&id=326&catid=2  
+https://www.icd.go.cr/portalicd/index.php/estad-drogadecomisada?view=article&id=326&catid=2  
 IGN-RN Limite Cantonal. Escala 1:5000, 2024. 
- Monmonier, M. (2018). How to lie with maps. University of Chicago Press.  
- https://books.google.com/books?hl=es&lr=&id=MwdRDwAAQBAJ&oi=fnd&pg=PP8&dq=How+to+lie+with+maps&ots=NvqML9Ha1b&sig=KQkEtGJEoMXw1xjoeG-yka7li_k 
+Monmonier, M. (2018). How to lie with maps. University of Chicago Press.  
+https://books.google.com/books?hl=es&lr=&id=MwdRDwAAQBAJ&oi=fnd&pg=PP8&dq=How+to+lie+with+maps&ots=NvqML9Ha1b&sig=KQkEtGJEoMXw1xjoeG-yka7li_k 
 UNODC, (2021), World Drug Report 2021 (United Nations publication, Sales No. E.21.XI.8).
- https://www.unodc.org/unodc/en/data-and-analysis/wdr2021.html
+https://www.unodc.org/unodc/en/data-and-analysis/wdr2021.html
