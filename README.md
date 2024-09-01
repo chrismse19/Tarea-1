@@ -9,7 +9,9 @@ Los datos utilizados en este análisis incluyen el Índice de Bienestar Material
 #### Problemas que se Desea Resolver o Preguntas que se Espera Contestar:
 
 **1.** ¿Existe una correlación entre el Índice de Bienestar Material en los cantones de Costa Rica y la cantidad de droga decomisada en esas áreas?
+
 **2.** ¿Cuáles son los cantones con el mayor Índice de Bienestar Material y los mayores decomisos de droga?
+
 **3.** ¿Cómo se visualiza la relación entre el Índice de Bienestar Material y la cantidad de droga decomisada utilizando un Sistema de Información Geográfica (SIG)?
 
 ## Objetivo General:
@@ -18,7 +20,9 @@ Los datos utilizados en este análisis incluyen el Índice de Bienestar Material
 
 ## Objetivos Específicos:
 **1.** Determinar si existe una correlación entre el Índice de Bienestar Material en los cantones de Costa Rica y la cantidad de droga decomisada en esa misma área geográfica. 
+
 **2.** Identificar los cantones con mayor Índice de Bienestar Material y cantidad de droga decomisada. 
+
 **3.** Desarrollar una representación visual de la relación existente entre el Índice de Bienestar Material y la cantidad de droga decomisada mediante la utilización de un SIG.
 
 ## Justificación
@@ -27,7 +31,7 @@ En 2018, la relación entre la cantidad de droga decomisada y el índice de bien
 Para 2020, la situación mundial había cambiado considerablemente debido a la pandemia de COVID-19. Este nuevo contexto afectó tanto al tráfico de drogas como al bienestar material de la población. La justificación para crear un mapa de relación en 2020 radica en analizar cómo la pandemia y las medidas de confinamiento afectaron estas variables. Además, permite evaluar si las estrategias implementadas en años anteriores tuvieron algún impacto duradero en la reducción del narcotráfico y la mejora del bienestar material.
  
  
- **_<p align=center>"Debido a que el tráfico de sustancias psicoactivas ilegales se realiza clandestinamente, a través de flujos de comercio y bienes legales, los mercados de drogas ilícitas dependen de una economía lícita que funcione. Por lo tanto, los cambios fundamentales en las actividades sociales y económicas de los países, resultantes de las restricciones a la movilidad y las medidas de distanciamiento social introducidas por los gobiernos para contener la pandemia de COVID-19, han tenido el potencial de afectar la oferta, distribución y demanda de drogas de diferentes manera."_** <p>(UNODC, 2021)
+ **_<p align=center>"Debido a que el tráfico de sustancias psicoactivas ilegales se realiza clandestinamente, a través de flujos de comercio y bienes legales, los mercados de drogas ilícitas dependen de una economía lícita que funcione. Por lo tanto, los cambios fundamentales en las actividades sociales y económicas de los países, resultantes de las restricciones a la movilidad y las medidas de distanciamiento social introducidas por los gobiernos para contener la pandemia de COVID-19, han tenido el potencial de afectar la oferta, distribución y demanda de drogas de diferentes manera."_** (UNODC, 2021)
 
 ## Metodología
 Pasando ahora a la realización de este trabajo, se obtuvo la capa de cantones proporcionada por el SNIT. Seguidamente, se escogieron las variables a trabajar; en nuestro caso, el índice de bienestar material es una medida que evalúa la calidad de vida de una población basándose en su acceso a bienes y servicios esenciales. A esto se le suma la cantidad de droga decomisada, que se estandarizó a kilogramos. Cabe mencionar que los tipos de droga seleccionados fueron específicamente: 
@@ -51,6 +55,8 @@ Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porq
 <p align=center> <img src="fig2.jpg" width=800> <p>
 
 **<p align=center> Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)** <p>
+
+
 ## Conclusiones 
 Al comparar los mapas de 2018 y 2020, se puede observar que algunos patrones y relaciones entre la cantidad de droga decomisada y el índice de bienestar material se mantienen constantes en ciertos cantones. No obstante, también puede haber ligeras variaciones en algunas áreas, lo que sugiere que las condiciones y dinámicas socioeconómicas pueden haber cambiado debido a diversos factores, incluyendo la pandemia de COVID-19.
 
