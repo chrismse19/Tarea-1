@@ -1,4 +1,5 @@
-# Cantidad de droga decomisada - Índice Bienestar Material
+# Cantidad de droga decomisada - Índice Bienestar Material <p> 
+
 #### Descripción General del Tema: 
 El análisis propuesto se centra en la relación entre el Índice de Bienestar Material (IBM) y la cantidad de droga decomisada en los cantones de Costa Rica durante los años 2018-2020. Este estudio busca entender cómo el narcotráfico puede estar relacionado con la calidad de vida de los ciudadanos en diferentes áreas geográficas del país.
 
@@ -39,9 +40,10 @@ Pasando ahora a la realización de este trabajo, se obtuvo la capa de cantones p
 - La marihuana. 
   
 Por lo que los datos de los kilogramos de droga decomisada son el resultado de la suma de los decomisos de la cocaína, el crack y la marihuana en sus respectivos años. Los datos fueron proporcionados por el Atlas del Programa de las Naciones Unidas para el Desarrollo (PNUD) y por el Instituto Costarricense de Drogas (ICD).
-Seguidamente se adjuntaron los datos a un excell con los códigos de cantones y de esta forma se unieron por medio de Qgis. Lo que fue la edición y la elección de colores de los mapas se realizó completamente gracias a herramientas digitales que ofrece ArcGIS. Entre las opciones proporcionadas se seleccionó una paleta con verdes, amarillos y azules; el amarillo se asocia mayormente a sustancias psicoactivas, aunque el verde tiene una asociación mayor debido a la hoja de marihuana, por lo que es de una fuerza mayor, junto a un alto índice de bienestar material. Por otro lado, el IBM se representa de color azul por comodidad de la paleta proporcionada y tiene significados de seguridad y pureza que representan variables positivas  (Brewer, 2016) .
-Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porque afectaban directamente el análisis posterior. También se escogió el método de clasificación de Rupturas Naturales con clases de 4x4 debido a que ofrecía un mapa más armonioso y equilibrado, aprovechando mejor los colores de la paleta, ya que bajo el método de Cuantiles se observa un mapa predominantemente verde/amarillo con casi nulo uso de azules, además no presenta los cambios de dinámicas que representan los datos  (Monmonier, 2018) .
 
+Seguidamente se adjuntaron los datos a un excell con los códigos de cantones y de esta forma se unieron por medio de Qgis. Lo que fue la edición y la elección de colores de los mapas se realizó completamente gracias a herramientas digitales que ofrece ArcGIS. Entre las opciones proporcionadas se seleccionó una paleta con verdes, amarillos y azules; el amarillo se asocia mayormente a sustancias psicoactivas, aunque el verde tiene una asociación mayor debido a la hoja de marihuana, por lo que es de una fuerza mayor, junto a un alto índice de bienestar material. Por otro lado, el IBM se representa de color azul por comodidad de la paleta proporcionada y tiene significados de seguridad y pureza que representan variables positivas  (Brewer, 2016) .
+
+Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porque afectaban directamente el análisis posterior. También se escogió el método de clasificación de Rupturas Naturales con clases de 4x4 debido a que ofrecía un mapa más armonioso y equilibrado, aprovechando mejor los colores de la paleta, ya que bajo el método de Cuantiles se observa un mapa predominantemente verde/amarillo con casi nulo uso de azules, además no presenta los cambios de dinámicas que representan los datos  (Monmonier, 2018) .
 
 ## Resultados
 
@@ -50,7 +52,9 @@ Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porq
 **Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2018](https://arcg.is/1zrTyW)** 
 
 
-<img src="fig2.jpg" width=800> 
+ <img src="fig2.jpg" width=800> 
+
+
 
 **Figura 2. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)** 
 
