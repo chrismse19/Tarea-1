@@ -57,7 +57,7 @@ Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porq
 
 <p align=center> <img src="fig2.jpg" width=800> <p>
 
-<p align=center> Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0) <p>
+<p align=center> Figura 2. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0) <p>
 
 
 ## Conclusiones 
