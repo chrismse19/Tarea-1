@@ -1,4 +1,4 @@
-# Cantidad de droga decomisada - Índice Bienestar Material <p> 
+# Cantidad de droga decomisada - Índice Bienestar Material 
 
 #### Descripción General del Tema: 
 El análisis propuesto se centra en la relación entre el Índice de Bienestar Material (IBM) y la cantidad de droga decomisada en los cantones de Costa Rica durante los años 2018-2020. Este estudio busca entender cómo el narcotráfico puede estar relacionado con la calidad de vida de los ciudadanos en diferentes áreas geográficas del país.
