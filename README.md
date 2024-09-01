@@ -46,12 +46,15 @@ Por lo que los datos de los kilogramos de droga decomisada son el resultado de l
 
 <p align=center> <img src="fig1.jpg" width=800> <p>
 
-**<p align=center> Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2018](https://arcg.is/1zrTyW)** <p>
+**Figura 1. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2018](https://arcg.is/1zrTyW)** <p>
 
 
 <p align=center> <img src="fig2.jpg" width=800> <p>
 
-**<p align=center> Figura 2. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)** <p>
+**Figura 2. [Relación Cantidad de Droga Decomisada - Índice de Bienestar Material en 2020](https://arcg.is/1TCSXP0)** <p>
+
+
+
 ## Conclusiones 
 Al comparar los mapas de 2018 y 2020, se puede observar que algunos patrones y relaciones entre la cantidad de droga decomisada y el índice de bienestar material se mantienen constantes en ciertos cantones. No obstante, también puede haber ligeras variaciones en algunas áreas, lo que sugiere que las condiciones y dinámicas socioeconómicas pueden haber cambiado debido a diversos factores, incluyendo la pandemia de COVID-19.
 
