@@ -39,6 +39,8 @@ Pasando ahora a la realización de este trabajo, se obtuvo la capa de cantones p
 - La marihuana. 
   
 Por lo que los datos de los kilogramos de droga decomisada son el resultado de la suma de los decomisos de la cocaína, el crack y la marihuana en sus respectivos años. Los datos fueron proporcionados por el Atlas del Programa de las Naciones Unidas para el Desarrollo (PNUD) y por el Instituto Costarricense de Drogas (ICD).
+Seguidamente se adjuntaron los datos a un excell con los códigos de cantones y de esta forma se unieron por medio de Qgis. Lo que fue la edición y la elección de colores de los mapas se realizó completamente gracias a herramientas digitales que ofrece ArcGIS. Entre las opciones proporcionadas se seleccionó una paleta con verdes, amarillos y azules; el amarillo se asocia mayormente a sustancias psicoactivas, aunque el verde tiene una asociación mayor debido a la hoja de marihuana, por lo que es de una fuerza mayor, junto a un alto índice de bienestar material. Por otro lado, el IBM se representa de color azul por comodidad de la paleta proporcionada y tiene significados de seguridad y pureza que representan variables positivas  (Brewer, 2016) .
+Para finalizar, se eliminaron aquellos cantones que no proporcionaban datos porque afectaban directamente el análisis posterior. También se escogió el método de clasificación de Rupturas Naturales con clases de 4x4 debido a que ofrecía un mapa más armonioso y equilibrado, aprovechando mejor los colores de la paleta, ya que bajo el método de Cuantiles se observa un mapa predominantemente verde/amarillo con casi nulo uso de azules, además no presenta los cambios de dinámicas que representan los datos  (Monmonier, 2018) .
 
 
 ## Resultados
